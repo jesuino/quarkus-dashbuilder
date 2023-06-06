@@ -41,7 +41,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
   <scm>
-    <connection>:git:git@github.com:quarkiverse/quarkus-dashbuilder.git</connection>
+    <connection>scm:git:git@github.com:quarkiverse/quarkus-dashbuilder.git</connection>
     <developerConnection>scm:git:git@github.com:quarkiverse/quarkus-dashbuilder.git</developerConnection>
     <url>https://github.com/quarkiverse/quarkus-dashbuilder</url>
   </scm>
